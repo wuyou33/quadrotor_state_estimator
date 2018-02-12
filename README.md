@@ -1,4 +1,4 @@
-# MEAM620_Project2
+# UPenn MEAM620 Advanced Robotics, Project2
 
 In phase 1, I implemented a vision based 3D pose estimator that estimates position and orientation of the quadrotor based on AprilTags. Position error 0.015-0.025; Quaternion error 0.006-0.009; 0.4ms per iteration 
 
